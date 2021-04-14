@@ -1,0 +1,16 @@
+{
+    "_default": {
+        "1": {
+            "name": "Jamshid",
+            "age": 19,
+            "number": 995577
+        },
+        "3": {
+            "name": {
+                "laqabi1": "sher",
+                "name": "sherzod"
+            },
+            "age": 20
+        }
+    }
+}
